@@ -91,7 +91,7 @@
 
 </div>
 
-<br><br>
+<br>
 
 ##
 
@@ -103,4 +103,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eduardapontel/eduardapontel/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br>
+<br><br>
