@@ -57,7 +57,11 @@
   &nbsp;
 </div>
 
-<br><br><br>
+<br><br>
+
+##
+
+<br><br>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardapontel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="eduardapontel"/>
@@ -71,7 +75,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardapontel&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<br><br><br>
+<br><br>
+
+##
+
+<br><br>
 <div align="center">
   
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
