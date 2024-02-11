@@ -16,6 +16,8 @@
 
 <br>
 
+##
+
 <h3 align="left">Connect with me:</h3>
 <div>
     <a href="https://www.linkedin.com/in/eduarda-pontel/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="30" alt="linkedin logo"/></a>
@@ -80,12 +82,18 @@
 ##
 
 <br><br>
+
 <div align="center">
   
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 </div>
-<br><br><br>
+
+<br><br>
+
+##
+
+<br><br>
  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardapontel/eduardapontel/output/github-contribution-grid-snake-dark.svg">
