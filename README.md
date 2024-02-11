@@ -87,7 +87,7 @@
 
 <div align="center">
   
-  ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
