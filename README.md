@@ -1,5 +1,7 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=30&duration=3000&pause=500&color=FFFFFF&background=F798FF00&center=true&vCenter=true&random=false&width=800&lines=Welcome!+%F0%9F%8E%89;My+name+is+Eduarda+Pontel+%F0%9F%91%A9%F0%9F%8F%BB;I'm+a+Software+Engineer+%F0%9F%92%BB" alt="Typing SVG"/></a></h1>
 
+<br>
+
 - 🔭 Developing projects
   
 - 🌱 I’m currently learning **React and NodeJS**
@@ -11,6 +13,8 @@
 - 📄 Know about my experiences [by clicking here](https://www.linkedin.com/in/eduarda-pontel/)
 
 - ⚡ Fun fact **I started programming because of my ex**
+
+<br>
 
 ##
 
@@ -91,7 +95,7 @@
 
 ##
 
-<br><br>
+<br>
  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardapontel/eduardapontel/output/github-contribution-grid-snake-dark.svg">
@@ -99,3 +103,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eduardapontel/eduardapontel/output/github-contribution-grid-snake.svg">
 </picture>
 
+<br>
