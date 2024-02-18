@@ -32,7 +32,8 @@
     &nbsp;
     <a href="https://www.facebook.com/eduarda.pontel.sz/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" height="30" alt="facebook logo"/></a>
     &nbsp;
-    <a href="https://w.app/wEDCsY" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" height="30" alt="whatsapp logo"/></a>
+    <a href="(https://api.whatsapp.com/send?phone=447598881490&text=Ol%C3%A1%2C%20como%20posso%20ajudar%3F
+)" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" height="30" alt="whatsapp logo"/></a>
 </div>
 
 <br>
