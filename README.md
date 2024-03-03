@@ -12,7 +12,9 @@
 
 - 📄 Know about my experiences [by clicking here](https://www.linkedin.com/in/eduarda-pontel/)
 
-- ⚡ Fun fact **I started programming because of my ex**
+- 🌎 I'm a native Portuguese speaker, currently learning English
+
+- ⚡ Fun fact I started programming because of my ex
 
 <br>
 
