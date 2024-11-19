@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [by clicking here](https://www.linkedin.com/in/eduarda-pontel/)
 
-- 🌎 I'm a native Portuguese speaker, currently improving my English and learning Spanish
+- 🌎 I'm a native Portuguese speaker, fluent in English and learning Spanish
 
 - ⚡ Fun fact **I started programming because of my ex 🤢**
 
