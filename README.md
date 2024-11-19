@@ -14,7 +14,7 @@
 
 - 🌎 I'm a native Portuguese speaker, fluent in English and learning Spanish
 
-- ⚡ Fun fact **I started programming because of my ex 🤢**
+- ⚡ Fun fact **I started programming because of my ex**
 
 <br>
 
