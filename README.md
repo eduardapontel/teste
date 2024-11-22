@@ -4,7 +4,7 @@
  
 - 🔭 Developing projects 
   
-- 🌱 I’m currently learning **React and NodeJS**
+- 🌱 I’m currently learning **React and NodeJS** 
 
 - 👨‍💻 All of my projects are available [here](https://github.com/eduardapontel?tab=repositories)
 
