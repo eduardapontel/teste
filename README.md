@@ -2,7 +2,7 @@
 
 <br>
  
-- 🔭 Developing projects
+- 🔭 Developing projects 
   
 - 🌱 I’m currently learning **React and NodeJS**
 
