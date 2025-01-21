@@ -66,12 +66,14 @@
 <br>
 
 ##
-
+<!--
 <br><br>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardapontel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="eduardapontel"/>
-</div>
+ <a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=eduardapontel&theme=dracula"/>
+ </a>
+</div>-->
 
 <br><br>
 
