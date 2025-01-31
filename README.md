@@ -2,19 +2,19 @@
 
 <br>
  
-- 🔭 Developing projects 
+- 🔭 **Studying** and **developing** projects 
   
-- 🌱 I’m currently learning **React and NodeJS** 
+- 🌱 I’m currently learning **React** and **NodeJS**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/eduardapontel?tab=repositories)
+- 🌎 I'm a native **Portuguese** speaker, fluent in **English** and learning **German**
 
-- 📫 How to reach me **eduardapontel@gmail.com**
+- 🏠 I'm from **Brazil** but I'm currently living in the **UK**
 
-- 📄 Know about my experiences [by clicking here](https://www.linkedin.com/in/eduarda-pontel/)
+- 👨‍💻 All of my **projects** are available [here](https://github.com/eduardapontel?tab=repositories)
 
-- 🌎 I'm a native Portuguese speaker, fluent in English and learning German
+- 📫 How to **reach me** eduardapontel@gmail.com
 
-- 🏠 I'm from Brazil but I'm currently living in the UK
+- 📄 Know about my **experiences** by clicking [here](https://www.linkedin.com/in/eduarda-pontel/)
 
 <br>
 
