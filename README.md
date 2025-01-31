@@ -14,7 +14,7 @@
 
 - 🌎 I'm a native Portuguese speaker, fluent in English and learning German
 
-- ⚡ Fun fact **I started programming because of my ex**
+- 🏠 I'm from Brazil but I'm currently living in the UK
 
 <br>
 
